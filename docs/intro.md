@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome to Prison
 
-[![License](https://img.shields.io/badge/license-GPL%20License%20v3-blue.svg)](LICENSE.md)
+<!-- [![License](https://img.shields.io/badge/license-GPL%20License%20v3-blue.svg)](LICENSE.md) -->
 [![Build Status](https://github.com/PrisonTeam/Prison/workflows/Prison%20Build/badge.svg)](https://github.com/PrisonTeam/Prison/actions?query=workflow%3A%22Prison+Build%22)
 [![Build Status](https://travis-ci.org/MC-Prison/Prison.svg?branch=master)](https://travis-ci.org/MC-Prison/Prison)
 [![Discord](https://discordapp.com/api/guilds/332602419483770890/widget.png)](https://discord.gg/DCJ3j6r)
