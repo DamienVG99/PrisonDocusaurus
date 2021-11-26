@@ -46,7 +46,7 @@ const config = {
         title: 'Prison',
         logo: {
           alt: 'Prison',
-          src: 'img/prison.jpg',
+          src: 'img/prison.svg',
         },
         items: [
           {
