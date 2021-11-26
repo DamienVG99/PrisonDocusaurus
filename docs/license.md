@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# License 🔑
+
 [Prison Documents - Table of Contents](intro.md)
 # GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
