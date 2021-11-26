@@ -81,7 +81,3 @@ dependencies {
 ```
 
 Through jitpack.io's webpage you can select a Prison release and it will generate the correct dependency to use: [Prison repo on jitpack.io](https://jitpack.io/#PrisonTeam/Prison)
-
-
-
-<hr style="height:3px; border:none; color:#aaf; background-color:#aaf;">
